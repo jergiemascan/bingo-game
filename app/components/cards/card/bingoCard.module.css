@@ -1,0 +1,12 @@
+.winnerBackground {
+  background-image: linear-gradient(147deg, #ffe53b 0%, #ff2525 74%);
+  padding: 10px;
+}
+.td {
+  padding: 2px;
+  background-color: var(--white-100);
+}
+.marked {
+  text-decoration: line-through !important;
+  background-color: var(--yellow) !important;
+}

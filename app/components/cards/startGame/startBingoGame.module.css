@@ -1,0 +1,14 @@
+.heading {
+  max-width: 480px;
+  margin: 0 auto;
+  @media only screen and (min-width: 994px) {
+    max-width: 960px;
+  }
+}
+.flex {
+  display: flex;
+  gap: 2px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 960px;
+}
